@@ -1,0 +1,54 @@
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+email_log.txt
+
+# Database files
+*.sql
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build artifacts
+node_modules/
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Composer/Packagist
+/vendor/
+/composer.phar
+/composer.lock
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# XAMPP specific
+xampp/
