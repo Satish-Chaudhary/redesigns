@@ -1,0 +1,18 @@
+Email to: satish9619000@gmail.com
+Subject: Thank you for contacting Mama Mia Restaurant
+Message: 
+                <html>
+                <head>
+                    <title>Thank you for contacting us</title>
+                </head>
+                <body>
+                    <h2>Dear Satish Chaudhary,</h2>
+                    <p>Thank you for contacting Mama Mia Restaurant. We have received your message and will get back to you as soon as possible.</p>
+                    <p><strong>Subject:</strong> aaaa</p>
+                    <p><strong>Message:</strong> aaaaaaaaaa</p>
+                    <p>If you have any urgent inquiries, please call us at +91 12345 67890.</p>
+                    <p>Best regards,<br>Mama Mia Restaurant Team</p>
+                </body>
+                </html>
+            
+Headers: 
